@@ -37,7 +37,7 @@ Los Story Points son estimaciones iniciales propuestas y deben confirmarse media
 - **HU08** permanece en Product Backlog hasta validar con el cliente si la baja contractual entra en la primera versión.
 
 ## Tablero GitHub Projects
-El tablero personal permanece en [FitDAM Reserva – GitHub Projects](https://github.com/users/albertogoca11/projects/1/views/1). La configuración de las cinco columnas, las tarjetas vigentes y su estado quedan pendientes de verificación.
+**Enlace de entrega pendiente.** La dirección anterior devuelve 404 para el equipo. Falta confirmar la URL del tablero y comprobar el acceso del profesor. Las historias vigentes están en el Product Backlog de este README.
 
 ## Demo
 - **Prototipo Figma:** [Abrir prototipo de FitDAM Reserva](https://www.figma.com/proto/WEKllslAqtq0cDoG2S3MCr/Sin-t%C3%ADtulo?node-id=3-2&p=f&t=Dzs8A25FIGuR4RAE-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=3%3A2)
