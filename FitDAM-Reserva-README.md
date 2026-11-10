@@ -8,16 +8,16 @@ Repositorio de trabajo para Entornos de Desarrollo.
 - Developers: Ángel Menéndez y Fernando Moret
 
 ## Product Backlog – conjunto vigente de historias
-Las historias vigentes están creadas en este repositorio. Las antiguas issues 1–8 de `DAM_1` se han cerrado como duplicadas; deben utilizarse únicamente las historias siguientes:
+Las historias vigentes del Product Backlog son:
 
-1. [HU01 – Consultar horario y plazas (3 SP)](issues/9)
-2. [HU02 – Reservar una clase (5 SP)](issues/10)
-3. [HU03 – Cancelar una reserva (3 SP)](issues/11)
-4. [HU04 – Registro y pago de cuota (8 SP)](issues/12)
-5. [HU05 – Recibir recordatorios (3 SP)](issues/13)
-6. [HU06 – Consultar lista de asistentes (3 SP)](issues/14)
-7. [HU07 – Gestionar clases (5 SP)](issues/15)
-8. [HU08 – Solicitar baja del contrato (5 SP; fuera del alcance confirmado, pendiente de validar)](issues/16)
+1. [HU01 – Consultar horario y plazas (3 SP)](https://github.com/albertogoca11/Entornos_salchichas/issues/9)
+2. [HU02 – Reservar una clase (5 SP)](https://github.com/albertogoca11/Entornos_salchichas/issues/10)
+3. [HU03 – Cancelar una reserva (3 SP)](https://github.com/albertogoca11/Entornos_salchichas/issues/11)
+4. [HU04 – Registro y pago de cuota (8 SP)](https://github.com/albertogoca11/Entornos_salchichas/issues/12)
+5. [HU05 – Recibir recordatorios (3 SP)](https://github.com/albertogoca11/Entornos_salchichas/issues/13)
+6. [HU06 – Consultar lista de asistentes (3 SP)](https://github.com/albertogoca11/Entornos_salchichas/issues/14)
+7. [HU07 – Gestionar clases (5 SP)](https://github.com/albertogoca11/Entornos_salchichas/issues/15)
+8. [HU08 – Solicitar baja del contrato (5 SP; fuera del alcance confirmado, pendiente de validar)](https://github.com/albertogoca11/Entornos_salchichas/issues/16)
 
 **Cambio solicitado por Marta:** incorporar el alta de nuevos socios y el pago de la cuota mensual. Se recoge en HU04 y se planifica para Sprint 2.
 
