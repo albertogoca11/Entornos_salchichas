@@ -22,18 +22,18 @@ El [diario consolidado](Diario-Sprints-y-Comparativa-FitDAM.md) es el registro d
 
 | Objetivo | Historias seleccionadas | Historias terminadas (resultado real) | Puntos completados | Conclusión de la retrospectiva |
 |---|---|---|---:|---|
-| Consultar, reservar y cancelar clases | HU01, HU02, HU03 | [Completar tras el Sprint] | [Completar] | [Qué salió bien, qué mejorar y acción concreta] |
+| Consultar, reservar y cancelar clases | HU01, HU02, HU03 | Pendiente de registrar | Pendiente de registrar | Pendiente de registrar |
 
 ### Retrospectiva Sprint 1
-- **Qué salió bien:** [Completar]
-- **Qué debemos mejorar:** [Completar]
-- **Acción concreta para el Sprint 2:** [Completar]
+- **Qué salió bien:** Pendiente de registrar
+- **Qué debemos mejorar:** Pendiente de registrar
+- **Acción concreta para el Sprint 2:** Pendiente de registrar
 
 ### Daily Scrum – notas breves
-- **Alberto (Product Owner):** [Consultas o aclaraciones del cliente]
-- **Lorgio (Scrum Master):** [Bloqueos detectados y ayuda facilitada]
-- **Ángel (Developer):** [Trabajo realizado, siguiente tarea y bloqueos]
-- **Fernando (Developer):** [Trabajo realizado, siguiente tarea y bloqueos]
+- **Alberto (Product Owner):** Pendiente de registrar
+- **Lorgio (Scrum Master):** Pendiente de registrar
+- **Ángel (Developer):** Pendiente de registrar
+- **Fernando (Developer):** Pendiente de registrar
 
 ## Sprint 2
 
@@ -49,18 +49,18 @@ El [diario consolidado](Diario-Sprints-y-Comparativa-FitDAM.md) es el registro d
 
 | Objetivo | Historias seleccionadas | Historias terminadas (resultado real) | Puntos completados | Conclusión de la retrospectiva |
 |---|---|---|---:|---|
-| Añadir altas, cuotas y gestión de clases | HU04, HU05, HU06, HU07 | [Completar tras el Sprint] | [Completar] | [Qué salió bien, qué mejorar y acción concreta] |
+| Añadir altas, cuotas y gestión de clases | HU04, HU05, HU06, HU07 | Pendiente de registrar | Pendiente de registrar | Pendiente de registrar |
 
 ### Retrospectiva Sprint 2
-- **Qué salió bien:** [Completar]
-- **Qué debemos mejorar:** [Completar]
-- **Acción concreta o aprendizaje para el equipo:** [Completar]
+- **Qué salió bien:** Pendiente de registrar
+- **Qué debemos mejorar:** Pendiente de registrar
+- **Acción concreta o aprendizaje para el equipo:** Pendiente de registrar
 
 ### Daily Scrum – notas breves
-- **Alberto (Product Owner):** [Consultas o aclaraciones del cliente]
-- **Lorgio (Scrum Master):** [Bloqueos detectados y ayuda facilitada]
-- **Ángel (Developer):** [Trabajo realizado, siguiente tarea y bloqueos]
-- **Fernando (Developer):** [Trabajo realizado, siguiente tarea y bloqueos]
+- **Alberto (Product Owner):** Pendiente de registrar
+- **Lorgio (Scrum Master):** Pendiente de registrar
+- **Ángel (Developer):** Pendiente de registrar
+- **Fernando (Developer):** Pendiente de registrar
 
 ## Definition of Done (DoD)
 
