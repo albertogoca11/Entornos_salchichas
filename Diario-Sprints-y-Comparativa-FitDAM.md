@@ -5,12 +5,14 @@
 - **Scrum Master:** Lorgio Arteaga
 - **Developers:** Ángel Menéndez y Fernando Moret
 
+En clase, el profesor representa al cliente. El Product Owner canaliza las consultas y recoge su feedback.
+
 ## Product Goal
 Facilitar la gestión de FitDAM desde el móvil, permitiendo a los socios consultar y reservar clases y al personal gestionar la actividad del gimnasio, reduciendo las tareas administrativas de recepción.
 
 ## Alcance y cambio solicitado por la clienta
 
-La petición de cambio comunicada por Marta solicita incorporar el **alta de nuevos socios y el pago de la cuota mensual**. Se ha incorporado al Product Backlog como **HU04 – Registro y pago de cuota**, planificada para Sprint 2.
+La propuesta revisada identifica como ampliación el **alta de nuevos socios y el pago de la cuota mensual**. Se ha incorporado al Product Backlog como **HU04 – Registro y pago de cuota**, planificada para Sprint 2. Queda pendiente contrastarla con el correo original.
 
 Hay que distinguir dos funcionalidades diferentes:
 - **HU03 – Cancelar una reserva:** cancelar una plaza de una clase. Forma parte del alcance planificado de Sprint 1.
@@ -67,7 +69,7 @@ Una historia solo podrá pasar a **Hecho** cuando se haya comprobado y documenta
 |---|---|
 | Sprint Planning | Pendiente de registrar fecha, asistentes, objetivo y selección definitiva |
 | Daily Scrum | Pendiente de registrar cada Daily: fecha, progreso hacia el Sprint Goal, plan hasta el siguiente Daily e impedimentos |
-| Sprint Review | Pendiente de registrar demo del incremento, feedback de Marta/PO y aceptación o cambios |
+| Sprint Review | Pendiente de registrar demo del incremento, feedback del profesor, recogido por el Product Owner y aceptación o cambios |
 | Retrospectiva | Pendiente de registrar qué funcionó, qué mejorar y acción concreta para el siguiente Sprint |
 
 ## Sprint 2
@@ -98,7 +100,7 @@ Una historia solo podrá pasar a **Hecho** cuando se haya comprobado y documenta
 |---|---|
 | Sprint Planning | Pendiente de registrar fecha, asistentes, objetivo y selección definitiva |
 | Daily Scrum | Pendiente de registrar cada Daily: fecha, progreso hacia el Sprint Goal, plan hasta el siguiente Daily e impedimentos |
-| Sprint Review | Pendiente de registrar demo del incremento, feedback de Marta/PO y aceptación o cambios |
+| Sprint Review | Pendiente de registrar demo del incremento, feedback del profesor, recogido por el Product Owner y aceptación o cambios |
 | Retrospectiva | Pendiente de registrar qué funcionó, qué mejorar y acción concreta |
 
 ## Comparativa final: Reto 1 y Scrum
