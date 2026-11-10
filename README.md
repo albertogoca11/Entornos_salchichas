@@ -26,7 +26,6 @@ Los Story Points son estimaciones iniciales propuestas y deben confirmarse media
 ## Documentación
 - [Planning Poker](Planning-Poker-FitDAM.md)
 - [Diario de los dos Sprints](Diario-de-Sprints-FitDAM.md)
-- [Comparativa Reto 1 y Scrum](Comparativa-Reto1-Scrum-FitDAM.md)
 
 ## Planificación inicial propuesta
 - **Sprint 1 – 11 SP:** HU01, HU02 y HU03. Objetivo: consultar, reservar y cancelar clases.
