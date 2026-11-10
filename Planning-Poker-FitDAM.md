@@ -1,6 +1,6 @@
 # Planning Poker – FitDAM Reserva
 
-> Los puntos son propuestas de partida. La fecha, los votos y los acuerdos se registrarán tras la sesión del equipo.
+> **Ejemplo ficticio de Planning Poker.** Los votos y acuerdos de esta tabla son inventados para ilustrar el ejercicio. Las estimaciones siguen pendientes de validación por el equipo.
 
 ## Equipo Scrum
 - **Product Owner:** Alberto González
@@ -20,18 +20,18 @@ Se utilizan los valores de la secuencia Fibonacci: **1, 2, 3, 5, 8 y 13 Story Po
 4. Si hay diferencias, se comentan los motivos y se vuelve a votar.
 5. Se registra la estimación acordada por los Developers.
 
-## Registro de la votación
+## Ronda simulada
 
-| Historia | SP propuestos | Voto Ángel | Voto Fernando | Acuerdo |
-|---|---:|---|---|---|
-| HU01 | 3 | Pendiente | Pendiente | Pendiente |
-| HU02 | 5 | Pendiente | Pendiente | Pendiente |
-| HU03 | 3 | Pendiente | Pendiente | Pendiente |
-| HU04 | 8 | Pendiente | Pendiente | Pendiente |
-| HU05 | 3 | Pendiente | Pendiente | Pendiente |
-| HU06 | 3 | Pendiente | Pendiente | Pendiente |
-| HU07 | 5 | Pendiente | Pendiente | Pendiente |
-| HU08 | 5 | Pendiente | Pendiente | Pendiente |
+| Historia | Voto A | Voto B | Acuerdo simulado (SP) | Justificación |
+|---|---:|---:|---:|---|
+| [HU01](https://github.com/albertogoca11/Entornos_salchichas/issues/9) | 3 | 5 | 3 | Consulta de horarios y plazas en una vista. |
+| [HU02](https://github.com/albertogoca11/Entornos_salchichas/issues/10) | 5 | 8 | 5 | Reserva y confirmación con actualización simulada de plazas. |
+| [HU03](https://github.com/albertogoca11/Entornos_salchichas/issues/11) | 3 | 3 | 3 | Cancelación de una reserva activa y liberación de plaza. |
+| [HU04](https://github.com/albertogoca11/Entornos_salchichas/issues/12) | 8 | 13 | 8 | Alta y confirmación de pago en el prototipo, con pago simulado. |
+| [HU05](https://github.com/albertogoca11/Entornos_salchichas/issues/13) | 3 | 5 | 3 | Un aviso con clase, hora y sala. |
+| [HU06](https://github.com/albertogoca11/Entornos_salchichas/issues/14) | 3 | 3 | 3 | Consulta del listado por clase. |
+| [HU07](https://github.com/albertogoca11/Entornos_salchichas/issues/15) | 5 | 8 | 5 | Alta, edición y cancelación de clases con datos de ejemplo. |
+| [HU08](https://github.com/albertogoca11/Entornos_salchichas/issues/16) | 5 | 8 | 5 | Solicitud y consulta de estado, sujetas a confirmar el alcance. |
 
 ## Planificación propuesta
 
@@ -56,6 +56,6 @@ Se utilizan los valores de la secuencia Fibonacci: **1, 2, 3, 5, 8 y 13 Story Po
 
 HU08 permanece en el Product Backlog hasta que el Product Owner confirme con el cliente si la baja contractual forma parte del alcance de la primera versión.
 
-## Datos de la sesión
+## Sesión real pendiente de registrar
 - **Fecha:** no registrada.
 - **Participantes previstos:** Ángel Menéndez y Fernando Moret (Developers); Alberto González (Product Owner); Lorgio Arteaga (Scrum Master).
