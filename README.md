@@ -37,7 +37,7 @@ Los Story Points son estimaciones iniciales propuestas y deben confirmarse media
 El tablero personal permanece en [FitDAM Reserva – GitHub Projects](https://github.com/users/albertogoca11/projects/1/views/1). Es un recurso separado del repositorio: hay que sustituir en él las incidencias antiguas de `DAM_1` por las nuevas incidencias de este repositorio.
 
 ## Demo
-- **Canva/Figma final:** [Pegar aquí el enlace compartido al finalizar el segundo Sprint].
+- **Prototipo Figma:** [Abrir prototipo de FitDAM Reserva](https://www.figma.com/proto/WEKllslAqtq0cDoG2S3MCr/Sin-t%C3%ADtulo?node-id=3-2&p=f&t=Dzs8A25FIGuR4RAE-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=3%3A2)
 
 ## Importante
 La actividad simula dos Sprints trabajando sobre un prototipo en Canva o Figma; no consiste en programar la aplicación. El diario debe reflejar los resultados reales: historias terminadas, puntos completados y conclusiones de las retrospectivas.
