@@ -8,4 +8,4 @@ Si recibimos el email de Marta con la petición de incorporar el alta de nuevos 
 
 Preferimos Scrum para FitDAM Reserva porque las necesidades del gimnasio pueden cambiar y resulta útil validar pronto los recorridos con Marta. Por ejemplo, en una Sprint Review podríamos descubrir que el proceso de reserva no es suficientemente claro y mejorar el siguiente incremento. La planificación del Reto 1, por su parte, ofrece una visión inicial de calendario y presupuesto. Consideramos que Scrum es más adecuado para desarrollar y mejorar el producto de forma iterativa, mientras que la planificación inicial sigue siendo útil como referencia general.
 
-> **Pendiente de comprobación:** el PDF del Reto 2 pide incorporar expresamente el cambio que Marta solicitó en su email. El correo original no estaba entre los archivos aportados. Este texto utiliza el alta de socios y el pago mensual, que aparecen como ampliación en la presentación anterior. Antes de entregar, comprobad que coinciden exactamente con el email.
+
