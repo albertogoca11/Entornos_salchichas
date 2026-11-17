@@ -1,9 +1,5 @@
 # Diario de Sprints – FitDAM Reserva
 
-> Rellenar después de realizar cada Sprint. No registrar como terminada ninguna historia que no cumpla la Definition of Done.
-
-El [diario consolidado](Diario-Sprints-y-Comparativa-FitDAM.md) es el registro de referencia. Este archivo conserva el plan inicial.
-
 ## Equipo Scrum
 - **Product Owner:** Alberto González
 - **Scrum Master:** Lorgio Arteaga
