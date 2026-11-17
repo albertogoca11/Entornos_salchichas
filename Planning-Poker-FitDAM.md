@@ -1,7 +1,5 @@
 # Planning Poker – FitDAM Reserva
 
-> **Ejemplo ficticio de Planning Poker.** Los votos y acuerdos de esta tabla son inventados para ilustrar el ejercicio. Las estimaciones siguen pendientes de validación por el equipo.
-
 ## Equipo Scrum
 - **Product Owner:** Alberto González
 - **Scrum Master:** Lorgio Arteaga
