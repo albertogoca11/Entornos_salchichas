@@ -114,7 +114,6 @@ El cambio solicitado por Marta —**dar de alta a nuevos socios y permitir el pa
 Preferimos Scrum para un proyecto como FitDAM Reserva porque las necesidades del gimnasio pueden cambiar y conviene validar pronto los recorridos con la clienta. Por ejemplo, una Review puede revelar que el proceso de reserva es confuso y permitir que el equipo adapte el siguiente incremento. La planificación del Reto 1, en cambio, resulta útil para establecer desde el inicio una referencia de calendario y presupuesto. Scrum nos parece más adecuado para construir y mejorar el producto de forma iterativa, manteniendo la planificación inicial como orientación.
 
 ## Enlaces de entrega
-- **GitHub Projects:** enlace de entrega pendiente de confirmar con el propietario.
 - **Repositorio y backlog:** https://github.com/albertogoca11/Entornos_salchichas
 - **Demo Canva/Figma:** https://www.figma.com/proto/WEKllslAqtq0cDoG2S3MCr/Sin-t%C3%ADtulo?node-id=3-2&p=f&t=Dzs8A25FIGuR4RAE-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=3%3A2
 
