@@ -52,10 +52,3 @@ Se utilizan los valores de la secuencia Fibonacci: **1, 2, 3, 5, 8 y 13 Story Po
 - HU06 – Consultar lista de asistentes: 3 puntos.
 - HU07 – Gestionar clases: 5 puntos.
 
-**Total planificado: 19 puntos.**
-
-HU08 permanece en el Product Backlog hasta que el Product Owner confirme con el cliente si la baja contractual forma parte del alcance de la primera versión.
-
-## Sesión real pendiente de registrar
-- **Fecha:** no registrada.
-- **Participantes previstos:** Ángel Menéndez y Fernando Moret (Developers); Alberto González (Product Owner); Lorgio Arteaga (Scrum Master).
